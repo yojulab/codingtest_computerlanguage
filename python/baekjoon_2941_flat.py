@@ -25,9 +25,10 @@
 # dz=ak       -> 3
 
 def main():
-    # 단어를 받음    # word = input()
+    # 단어를 받음    
+    word = input()
     # word = 'ljes=njak'
-    word = 'ddz=z='
+    # word = 'ddz=z='
     # word = 'nljj'
     # word = 'c=c='
     # word = 'dz=ak'
