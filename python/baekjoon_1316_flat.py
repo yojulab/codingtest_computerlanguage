@@ -1,4 +1,4 @@
-# from 
+# from https://www.acmicpc.net/problem/1316
 # - 실패 시 원인 기록
 # + 
 
@@ -26,26 +26,36 @@
 # 2 - yzyzy zyzyz       -> 0
 # 1 - z                 -> 1
 
+import re
 def main():
     #- flow    
     # 단어 갯수와 갯수만큼 단어 받음
-    # count = int(input())
-    # word_list = list()
-    # for _ in range(count):
-    #     word_list.append(input())
+    count = int(input())
+    word_list = list()
+    for _ in range(count):
+        word_list.append(input())
     # word_list = ['happy', 'new', 'year']
     # word_list = ['aba', 'abab', 'abcabc', 'a']
     # word_list = ['ab', 'aa', 'aca', 'ba', 'bb']
     # word_list = ['yzyzy', 'zyzyz']
-    word_list = ['z']
+    # word_list = ['z']
     
     # 받은 단어 갯수만큼 돌면서, 
+    group_word_count = int()
     for word in word_list:
         # 단어 내 그룹 단어 횟수 새기(try-on)
-        char_list = [word[0]]
-        for char in word[1:]:
-            temp_char = char 
+        char_count = int()
+        for char in word:
+            regexp = r'['+char+']+'
+            temp_list = re.findall(regexp,word)
+            if len(temp_list) > 1:
+                break
+            char_count += 1
+        if char_count == len(word):
+            group_word_count += 1
+
     # 단어 횟수 표시
+    print(group_word_count)
     
     pass
 

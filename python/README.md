@@ -12,3 +12,4 @@
  * and, or, not
  * map()
  * zip()
+ * re

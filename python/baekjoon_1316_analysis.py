@@ -1,4 +1,4 @@
-# from 
+# from https://www.acmicpc.net/problem/1316
 # - 실패 시 원인 기록
 # + 
 
