@@ -2,9 +2,12 @@
 코딩테스트 문제를 풀며 알고리즘 
 
 #### 기본  
-| 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 더 해보기| 문제출처 | 참조 |
+| 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 해보기| 문제출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
-|손익분기점 찾기|[link](./analysis/baekjoon_1712_analysis.txt)|[py](./python/baekjoon_1712_flat.py)|-|-|-|[백준 1712](https://www.acmicpc.net/problem/1712)|-|
+|단어 갯수|[link](./analysis/baekjoon_1152_analysis.txt)|[py](./python/baekjoon_1152_flat.py)|-|-|-|[백준 1152](https://www.acmicpc.net/problem/1152)|-|
+|그룹단어 찾기|[link](./analysis/baekjoon_1316_analysis.txt)|[py](./python/baekjoon_1316_flat.py)|-|-|-|[백준 1316](https://www.acmicpc.net/problem/1316)|-|
+|큰수 찾기|[link](./analysis/baekjoon_2908_analysis.txt)|[py](./python/baekjoon_2908_flat.py)|-|-|-|[백준 2908](https://www.acmicpc.net/problem/2908)|-|
+|알파벳 횟수|[link](./analysis/baekjoon_2941_analysis.txt)|[py](./python/baekjoon_2941_flat.py)|-|-|-|[백준 2941](https://www.acmicpc.net/problem/2941)|-|
 
 #### 더 해보기  
 | 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 더 해보기| 문제출처 | 참조 |
