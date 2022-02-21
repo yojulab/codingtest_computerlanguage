@@ -1,4 +1,4 @@
-### pre langague study for python
+### 학습 대상
 * print()
 * input()
 * int(), float(), str()

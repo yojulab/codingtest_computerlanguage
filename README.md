@@ -1,10 +1,11 @@
 ### 친절한 사수와 함께 하는 프로그래밍 언어 ([사용설명서](./refer/README.md))
-코딩테스트 문제를 풀며 알고리즘 
+코딩테스트 문제를 풀며 배우는 프로그래밍 언어(python, C++, javascript) 
 
 #### 기본  
 | 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 해보기 | 문제출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
-|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)|[me](https://www.acmicpc.net/source/39388541)|
+|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)||
+|특수문자 화면 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](./Cpp/baekjoon_10172_flat.cpp)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)||
 | - | - | - | - | - | - | - | - |
 |단어 갯수|[link](./analysis/baekjoon_1152_analysis.txt)|[py](./python/baekjoon_1152_flat.py)|-|-|-|[백준 1152](https://www.acmicpc.net/problem/1152)|-|
 |그룹단어 찾기|[link](./analysis/baekjoon_1316_analysis.txt)|[py](./python/baekjoon_1316_flat.py)|-|-|-|[백준 1316](https://www.acmicpc.net/problem/1316)|-|
