@@ -1,6 +1,6 @@
 ### pre langague study for python
-* input()
 * print()
+* input()
 * int(), float(), str()
 * str.format() : {:>8}
 * str.split(), replace() 
