@@ -1,8 +1,8 @@
 ### 친절한 사수와 함께 하는 프로그래밍 언어 ([사용법](./refer/README.md))
-코딩테스트 문제를 풀며 배우는 프로그래밍 언어(python, C++, javascript) 
+코딩테스트 문제를 풀며 배우는 프로그래밍 언어(python) 
 
 #### 기본  
-| 분류 | 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 해보기 | 문제출처 | 참조 |
+| 분류 | 제목 | 분석 | 일반 | function 화| class 화 | 해보기 | 문제출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |입출력|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)||
 |입출력|특수문자 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](./Cpp/baekjoon_10172_flat.cpp)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)||
@@ -18,7 +18,7 @@
 |배열|평균 조작|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/4344)|[백준 1546](https://www.acmicpc.net/problem/1546)||
 |함수|입력한 합 구하기|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/4673)|[백준 15596](https://www.acmicpc.net/problem/15596)||
 |함수|한수 판단||-|-|-||[백준 1065](https://www.acmicpc.net/problem/1065)||
-|문자열|단어 갯수|[link](./analysis/baekjoon_1152_analysis.txt)|[py](./python/baekjoon_1152_flat.py)|-|-|-|[백준 1152](https://www.acmicpc.net/problem/1152)|-|
+|문자열|단어 갯수|[link](./analysis/baekjoon_1152_analysis.txt)|[py](./python/baekjoon_1152_flat.py)|[py](./python/baekjoon_1152_function.py)|-|-|[백준 1152](https://www.acmicpc.net/problem/1152)|-|
 |문자열|알파벳 찾기|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/2675)|[백준 10809](https://www.acmicpc.net/problem/10809)||
 |문자열|알파벳 횟수|[link](./analysis/baekjoon_2941_analysis.txt)|[py](./python/baekjoon_2941_flat.py)|-|-|[link](https://www.acmicpc.net/problem/1157)|[백준 2941](https://www.acmicpc.net/problem/2941)|-|
 |문자열|큰수 찾기|[link](./analysis/baekjoon_2908_analysis.txt)|[py](./python/baekjoon_2908_flat.py)|-|-|[link](https://www.acmicpc.net/problem/11720)|[백준 2908](https://www.acmicpc.net/problem/2908)|-|
@@ -32,5 +32,3 @@
 |손익분기점 찾기|[link](./analysis/baekjoon_1712_analysis.txt)|[py](./python/baekjoon_1712_flat.py)|-|-|-|[백준 1712](https://www.acmicpc.net/problem/1712)|-|
 |피보나치수열|[link](./analysis/baekjoon_10872_analysis.txt)|[py](./python/baekjoon_10872_flat.py)|-|-|-|[백준 10872](https://www.acmicpc.net/problem/10872)||
 |다이나믹 프로그래밍|-|-|-|-|-|-|<a href="https://youtu.be/FmXZG7D8nS4" target="_blank">한 문제는 한번 풀기</a>|
-
-
