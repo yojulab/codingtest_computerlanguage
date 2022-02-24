@@ -2,7 +2,7 @@
 코딩테스트 문제를 풀며 배우는 프로그래밍 언어(python) 
 
 #### 기본  
-| 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 문제출처 | 참조 |
+| 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |입출력|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)||
 |입출력|특수문자 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](./Cpp/baekjoon_10172_flat.cpp)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)||
@@ -27,7 +27,7 @@
 || - | - | - | - | - | - | - | - |
 
 #### 더 해보기  
-| 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 더 해보기| 문제출처 | 참조 |
+| 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 더 해보기| 출처 | 참조 |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |손익분기점 찾기|[link](./analysis/baekjoon_1712_analysis.txt)|[py](./python/baekjoon_1712_flat.py)|-|-|-|[백준 1712](https://www.acmicpc.net/problem/1712)|-|
 |피보나치수열|[link](./analysis/baekjoon_10872_analysis.txt)|[py](./python/baekjoon_10872_flat.py)|-|-|-|[백준 10872](https://www.acmicpc.net/problem/10872)||
