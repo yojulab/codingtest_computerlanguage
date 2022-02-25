@@ -1,6 +1,13 @@
 ### 찐 사수와 같이 하는 python([사용법](./refer/README.md))
 코딩테스트 문제를 풀며 배우는 프로그래밍 언어(python) 
 
+#### 흐름 정리
+| 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 출처 | 참조 |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
+|순서|한 손 옮기기|-||-|-|-|-|-|
+|순서|하노이 탑|-||-|-|-|[백준 11729](https://www.acmicpc.net/problem/11729)|-|
+
+
 #### 기본  
 | 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
@@ -23,12 +30,13 @@
 |문자열|알파벳 횟수|[link](./analysis/baekjoon_2941_analysis.txt)|[py](./python/baekjoon_2941_flat.py)|-|-|[link](https://www.acmicpc.net/problem/1157)|[백준 2941](https://www.acmicpc.net/problem/2941)|-|
 |문자열|큰수 찾기|[link](./analysis/baekjoon_2908_analysis.txt)|[py](./python/baekjoon_2908_flat.py)|-|-|[link](https://www.acmicpc.net/problem/11720)|[백준 2908](https://www.acmicpc.net/problem/2908)|-|
 |문자열|그룹단어 찾기|[link](./analysis/baekjoon_1316_analysis.txt)|[py](./python/baekjoon_1316_flat.py)|-|-|-|[백준 1316](https://www.acmicpc.net/problem/1316)|-|
+|dict| - | - | - | - | - | - | - | - |
+|multi array| - | - | - | - | - | - | - | - |
 |pickle| - | - | - | - | - | - | - | - |
-|| - | - | - | - | - | - | - | - |
 
 #### 더 해보기  
-| 제목 | 문제분석 | 일반코드 | function 적용 | class 적용 | 더 해보기| 출처 | 참조 |
-| --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
-|손익분기점 찾기|[link](./analysis/baekjoon_1712_analysis.txt)|[py](./python/baekjoon_1712_flat.py)|-|-|-|[백준 1712](https://www.acmicpc.net/problem/1712)|-|
-|피보나치수열|[link](./analysis/baekjoon_10872_analysis.txt)|[py](./python/baekjoon_10872_flat.py)|-|-|-|[백준 10872](https://www.acmicpc.net/problem/10872)||
-|다이나믹 프로그래밍|-|-|-|-|-|-|<a href="https://youtu.be/FmXZG7D8nS4" target="_blank">한 문제는 한번 풀기</a>|
+| 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 출처 | 참조 |
+| :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
+|수학|손익분기점 찾기|[link](./analysis/baekjoon_1712_analysis.txt)|[py](./python/baekjoon_1712_flat.py)|-|-|-|[백준 1712](https://www.acmicpc.net/problem/1712)|-|
+|수학|팩토리얼|[link](./analysis/baekjoon_10870_analysis.txt)|[py](./python/baekjoon_10870_flat.py)|-|-|-|[백준 10870](https://www.acmicpc.net/problem/10870)||
+|재귀|피보나치수|[link](./analysis/baekjoon_10872_analysis.txt)|[py](./python/baekjoon_10872_flat.py)|-|-|[link](https://www.acmicpc.net/problem/2447)|[백준 10872](https://www.acmicpc.net/problem/10872)||
