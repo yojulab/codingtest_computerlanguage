@@ -23,6 +23,7 @@
 |배열|최대값|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/10818)|[백준 2562](https://www.acmicpc.net/problem/2562)||
 |배열|반복해 나머지 구하기|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/2577)|[백준 3052](https://www.acmicpc.net/problem/3052)||
 |배열|평균 조작|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/4344)|[백준 1546](https://www.acmicpc.net/problem/1546)||
+|함수|정렬하기||[py](./python/baekjoon_1427_flat.py)||-|-|[백준 1427](https://www.acmicpc.net/problem/1427)|-|
 |함수|입력한 합 구하기|[-]()|-|-|-|[link](https://www.acmicpc.net/problem/4673)|[백준 15596](https://www.acmicpc.net/problem/15596)||
 |함수|한수 판단||-|-|-||[백준 1065](https://www.acmicpc.net/problem/1065)||
 |문자열|단어 갯수|[link](./analysis/baekjoon_1152_analysis.txt)|[py](./python/baekjoon_1152_flat.py)|[py](./python/baekjoon_1152_function.py)|-|-|[백준 1152](https://www.acmicpc.net/problem/1152)|-|
