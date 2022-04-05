@@ -11,8 +11,8 @@
 #### 기본  
 | 분류 | 제목 | 분석 | 일반 | function| class| 해보기 | 출처 | 참조 |
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
-|입출력|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)||
-|입출력|특수문자 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](./Cpp/baekjoon_10172_flat.cpp)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)|[py API](https://docs.python.org/3/tutorial/inputoutput.html)|
+|입출력|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)|[py API](https://docs.python.org/3/tutorial/inputoutput.html)|
+|입출력|특수문자 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](./Cpp/baekjoon_10172_flat.cpp)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)||
 |연산|사칙연산|-|[py](./python/baekjoon_10869_flat.py)|-|-|[link](https://www.acmicpc.net/problem/10430)|[백준 10869](https://www.acmicpc.net/problem/10869)||
 |연산|문자, 숫자 조합 계산|-|[py](./python/baekjoon_2588_flat.py)|-|-|[link](https://www.acmicpc.net/problem/18108)|[백준 2588](https://www.acmicpc.net/problem/2588)||
 |if|두 수 비교|-|[py](./python/baekjoon_1330_flat.py)|-|-|[link](https://www.acmicpc.net/problem/9498)|[백준 1330](https://www.acmicpc.net/problem/1330)||
