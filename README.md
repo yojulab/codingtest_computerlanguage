@@ -13,9 +13,10 @@
 | :---: | --- | :---: | :---: | :---: | :---: | :---: | :---: |:---: |
 |입출력|화면 표시와 변수|-|[py](./python/baekjoon_10718_flat.py)|-|-|-|[백준 10718](https://www.acmicpc.net/problem/10718)|[py API](https://docs.python.org/3/tutorial/inputoutput.html)|
 |입출력|특수문자 표시|-|[py](./python/baekjoon_10172_flat.py),[Cpp](https://www.acmicpc.net/source/39394188)|-|-|[link](https://www.acmicpc.net/problem/10171)|[백준 10172](https://www.acmicpc.net/problem/10172)||
-|연산|사칙연산|-|[py](./python/baekjoon_10869_flat.py), [java](https://www.acmicpc.net/source/51262155)|[java](https://www.acmicpc.net/source/51262242)|-|[link](https://www.acmicpc.net/problem/10430)|[백준 10869](https://www.acmicpc.net/problem/10869)||
-|연산|사칙연산|-|[py](https://www.acmicpc.net/source/39391897), [java](https://www.acmicpc.net/source/51262155)|[java](https://www.acmicpc.net/source/51262242)|-|-|[백준 1001](https://www.acmicpc.net/problem/1001)||
-|연산|문자, 숫자 조합 계산|-|[py](./python/baekjoon_2588_flat.py)|-|-|[link](https://www.acmicpc.net/problem/18108)|[백준 2588](https://www.acmicpc.net/problem/2588)||
+|사칙연산|덧셈|-|[py](./python/baekjoon_10869_flat.py), [java](https://www.acmicpc.net/source/51262155)|[java](https://www.acmicpc.net/source/51262242)|-|[link](https://www.acmicpc.net/problem/10430)|[백준 10869](https://www.acmicpc.net/problem/10869)||
+|사칙연산|뺄셈|-|[py](https://www.acmicpc.net/source/39391897), [java](https://www.acmicpc.net/source/51262155)|[java](https://www.acmicpc.net/source/51262242)|-|-|[백준 1001](https://www.acmicpc.net/problem/1001)||
+|사칙연산|사칙연산|-|[js](https://www.acmicpc.net/source/51578955)|-|-|-|[백준 10869](https://www.acmicpc.net/problem/10869)||
+|사칙연산|문자, 숫자 조합 계산|-|[py](./python/baekjoon_2588_flat.py)|-|-|[link](https://www.acmicpc.net/problem/18108)|[백준 2588](https://www.acmicpc.net/problem/2588)||
 |if|두 수 비교|-|[py](./python/baekjoon_1330_flat.py)|-|-|[link](https://www.acmicpc.net/problem/9498)|[백준 1330](https://www.acmicpc.net/problem/1330)||
 |if|알람시계 지연 해결|-|[py](./python/baekjoon_2884_flat.py)|-|-|[link](https://www.acmicpc.net/problem/2525)|[백준 2884](https://www.acmicpc.net/problem/2884)||
 |for|구구단|-|[py](./python/baekjoon_2739_flat.py)|-|-|[link](https://www.acmicpc.net/problem/8393)|[백준 2739](https://www.acmicpc.net/problem/2739)||
